@@ -41,3 +41,15 @@ expression. `expression-sheet.png` is a human index, not a generator input.
 Her expressions run on **ears and tail**, both of which read in silhouette.
 `nyanting-expr-04-alarm.png` is the only plate where her eyes depart from solid
 dusty blue - it is the rare explosive state, at most once per video.
+
+## The kitchen set
+
+`kitchen/nyanting-kitchen-LOCKED-v1.png` is the locked location. Pass it as a
+second `image_input` alongside the character (or an expression plate) on every
+shot set in the kitchen, and name explicitly what must be reproduced - the
+reference steers, it does not guarantee.
+
+**The character must be scaled against named objects in the room, every time.**
+She is meant to be too big for it, and that relationship is not encoded in
+either reference. Adjectives like "slightly too big" get ignored; measurements
+like "the counter is level with her chest" get obeyed.
