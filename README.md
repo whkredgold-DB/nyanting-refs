@@ -31,3 +31,13 @@ from, and removing them would erase that lineage.
 | `nyanting-back-LOCKED-v1.png` | Back |
 
 All 1024x1024 PNG.
+
+## Expression plates
+
+`expressions/` holds the eight expression plates plus a contact sheet. Feed the
+relevant plate alongside the master when generating a shot that needs a specific
+expression. `expression-sheet.png` is a human index, not a generator input.
+
+Her expressions run on **ears and tail**, both of which read in silhouette.
+`nyanting-expr-04-alarm.png` is the only plate where her eyes depart from solid
+dusty blue - it is the rare explosive state, at most once per video.
